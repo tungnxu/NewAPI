@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihVhNK3SlmmmULhQu5VfTv9pCZp24hcJnwT5Dh+ifQFbDWSLTKm3HPpD1kB3EbXwYNm+TovsSCeZ5DK4aieeoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tungnx15\\Documents\\Code\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tungnx15\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tungnx15\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tungnx15\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tungnx15\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tungnx15\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tungnx15\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\tungnx15\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.5\\microsoft.netcore.app.host.linux-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

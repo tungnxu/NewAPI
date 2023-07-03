@@ -1,0 +1,11 @@
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\WebApplication1
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\appsettings.Development.json
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\appsettings.json
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\WebApplication1.dll
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\WebApplication1.deps.json
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\WebApplication1.runtimeconfig.json
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\WebApplication1.pdb
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\Microsoft.OpenApi.dll
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tungnx15\Documents\Code\WebApplication1\WebApplication1\OKE\Swashbuckle.AspNetCore.SwaggerUI.dll
